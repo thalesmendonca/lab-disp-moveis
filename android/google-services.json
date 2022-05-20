@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053321070435",
+    "firebase_url": "https://alquimia-thales-default-rtdb.firebaseio.com",
+    "project_id": "alquimia-thales",
+    "storage_bucket": "alquimia-thales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053321070435:android:9d8226e541dba589e5b556",
+        "android_client_info": {
+          "package_name": "br.uff.ic.lek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053321070435-p12mi5v32dqk5ih97evjv0gsh3f3onis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.uff.ic.lek",
+            "certificate_hash": "e9e4dc6e12870b3bf053feed89373c685a789347"
+          }
+        },
+        {
+          "client_id": "1053321070435-gvt6oni4s12n5ls3fe38ocj76gee2g7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_PisLANjPnnUFHIlxYK01pYscGEGnzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053321070435-gvt6oni4s12n5ls3fe38ocj76gee2g7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
