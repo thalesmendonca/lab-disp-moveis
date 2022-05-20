@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.zip.CRC32;
-
+// teste
 import br.uff.ic.lek.Alquimia;
 // https://developers.google.com/android/guides/client-auth
 // https://www.geeksforgeeks.org/create-and-add-data-to-firebase-firestore-in-android/
